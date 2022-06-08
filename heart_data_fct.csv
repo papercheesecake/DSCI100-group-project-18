@@ -1,0 +1,295 @@
+age,sex,chest_pain,resting_pressure,serum_chol,fasting_blood_sugar,resting_ecg,max_heartrate,exercise_angina,oldpeak,slope,ca,thal,diagnosis
+29,male,atypical angina,120,243,false,normal,160,no,0,NA,NA,NA,less than 50
+29,male,atypical angina,140,NA,false,normal,170,no,0,NA,NA,NA,less than 50
+30,female,typical angina,170,237,false,abnormality,170,no,0,NA,NA,fixed,less than 50
+31,female,atypical angina,100,219,false,abnormality,150,no,0,NA,NA,NA,less than 50
+32,female,atypical angina,105,198,false,normal,165,no,0,NA,NA,NA,less than 50
+32,male,atypical angina,110,225,false,normal,184,no,0,NA,NA,NA,less than 50
+32,male,atypical angina,125,254,false,normal,155,no,0,NA,NA,NA,less than 50
+33,male,non-anginal pain,120,298,false,normal,185,no,0,NA,NA,NA,less than 50
+34,female,atypical angina,130,161,false,normal,190,no,0,NA,NA,NA,less than 50
+34,male,atypical angina,150,214,false,abnormality,168,no,0,NA,NA,NA,less than 50
+34,male,atypical angina,98,220,false,normal,150,no,0,NA,NA,NA,less than 50
+35,female,typical angina,120,160,false,abnormality,185,no,0,NA,NA,NA,less than 50
+35,female,asymptomatic,140,167,false,normal,150,no,0,NA,NA,NA,less than 50
+35,male,atypical angina,120,308,false,hypertrophy,180,no,0,NA,NA,NA,less than 50
+35,male,atypical angina,150,264,false,normal,168,no,0,NA,NA,NA,less than 50
+36,male,atypical angina,120,166,false,normal,180,no,0,NA,NA,NA,less than 50
+36,male,non-anginal pain,112,340,false,normal,184,no,1,flat,NA,normal,less than 50
+36,male,non-anginal pain,130,209,false,normal,178,no,0,NA,NA,NA,less than 50
+36,male,non-anginal pain,150,160,false,normal,172,no,0,NA,NA,NA,less than 50
+37,female,atypical angina,120,260,false,normal,130,no,0,NA,NA,NA,less than 50
+37,female,non-anginal pain,130,211,false,normal,142,no,0,NA,NA,NA,less than 50
+37,female,asymptomatic,130,173,false,abnormality,184,no,0,NA,NA,NA,less than 50
+37,male,atypical angina,130,283,false,abnormality,98,no,0,NA,NA,NA,less than 50
+37,male,non-anginal pain,130,194,false,normal,150,no,0,NA,NA,NA,less than 50
+37,male,asymptomatic,120,223,false,normal,168,no,0,NA,NA,normal,less than 50
+37,male,asymptomatic,130,315,false,normal,158,no,0,NA,NA,NA,less than 50
+38,female,atypical angina,120,275,NA,normal,129,no,0,NA,NA,NA,less than 50
+38,male,atypical angina,140,297,false,normal,150,no,0,NA,NA,NA,less than 50
+38,male,non-anginal pain,145,292,false,normal,130,no,0,NA,NA,NA,less than 50
+39,female,non-anginal pain,110,182,false,abnormality,180,no,0,NA,NA,NA,less than 50
+39,male,atypical angina,120,NA,false,abnormality,146,no,2,upsloping,NA,NA,less than 50
+39,male,atypical angina,120,200,false,normal,160,yes,1,flat,NA,NA,less than 50
+39,male,atypical angina,120,204,false,normal,145,no,0,NA,NA,NA,less than 50
+39,male,atypical angina,130,NA,false,normal,120,no,0,NA,NA,NA,less than 50
+39,male,atypical angina,190,241,false,normal,106,no,0,NA,NA,NA,less than 50
+39,male,non-anginal pain,120,339,false,normal,170,no,0,NA,NA,NA,less than 50
+39,male,non-anginal pain,160,147,true,normal,160,no,0,NA,NA,NA,less than 50
+39,male,asymptomatic,110,273,false,normal,132,no,0,NA,NA,NA,less than 50
+39,male,asymptomatic,130,307,false,normal,140,no,0,NA,NA,NA,less than 50
+40,male,atypical angina,130,275,false,normal,150,no,0,NA,NA,NA,less than 50
+40,male,atypical angina,140,289,false,normal,172,no,0,NA,NA,NA,less than 50
+40,male,non-anginal pain,130,215,false,normal,138,no,0,NA,NA,NA,less than 50
+40,male,non-anginal pain,130,281,false,normal,167,no,0,NA,NA,NA,less than 50
+40,male,non-anginal pain,140,NA,false,normal,188,no,0,NA,NA,NA,less than 50
+41,female,atypical angina,110,250,false,abnormality,142,no,0,NA,NA,NA,less than 50
+41,female,atypical angina,125,184,false,normal,180,no,0,NA,NA,NA,less than 50
+41,female,atypical angina,130,245,false,normal,150,no,0,NA,NA,NA,less than 50
+41,male,atypical angina,120,291,false,abnormality,160,no,0,NA,NA,NA,less than 50
+41,male,atypical angina,120,295,false,normal,170,no,0,NA,NA,NA,less than 50
+41,male,atypical angina,125,269,false,normal,144,no,0,NA,NA,NA,less than 50
+41,male,asymptomatic,112,250,false,normal,142,no,0,NA,NA,NA,less than 50
+42,female,non-anginal pain,115,211,false,abnormality,137,no,0,NA,NA,NA,less than 50
+42,male,atypical angina,120,196,false,normal,150,no,0,NA,NA,NA,less than 50
+42,male,atypical angina,120,198,false,normal,155,no,0,NA,NA,NA,less than 50
+42,male,atypical angina,150,268,false,normal,136,no,0,NA,NA,NA,less than 50
+42,male,non-anginal pain,120,228,false,normal,152,yes,1.5,flat,NA,NA,less than 50
+42,male,non-anginal pain,160,147,false,normal,146,no,0,NA,NA,NA,less than 50
+42,male,asymptomatic,140,358,false,normal,170,no,0,NA,NA,NA,less than 50
+43,female,typical angina,100,223,false,normal,142,no,0,NA,NA,NA,less than 50
+43,female,atypical angina,120,201,false,normal,165,no,0,NA,NA,NA,less than 50
+43,female,atypical angina,120,215,false,abnormality,175,no,0,NA,NA,NA,less than 50
+43,female,atypical angina,120,249,false,abnormality,176,no,0,NA,NA,NA,less than 50
+43,female,atypical angina,120,266,false,normal,118,no,0,NA,NA,NA,less than 50
+43,female,atypical angina,150,186,false,normal,154,no,0,NA,NA,NA,less than 50
+43,female,non-anginal pain,150,NA,false,normal,175,no,0,NA,NA,normal,less than 50
+43,male,atypical angina,142,207,false,normal,138,no,0,NA,NA,NA,less than 50
+44,female,asymptomatic,120,218,false,abnormality,115,no,0,NA,NA,NA,less than 50
+44,male,atypical angina,120,184,false,normal,142,no,1,flat,NA,NA,less than 50
+44,male,atypical angina,130,215,false,normal,135,no,0,NA,NA,NA,less than 50
+44,male,asymptomatic,150,412,false,normal,170,no,0,NA,NA,NA,less than 50
+45,female,atypical angina,130,237,false,normal,170,no,0,NA,NA,NA,less than 50
+45,female,atypical angina,180,NA,false,normal,180,no,0,NA,NA,NA,less than 50
+45,female,asymptomatic,132,297,false,normal,144,no,0,NA,NA,NA,less than 50
+45,male,atypical angina,140,224,true,normal,122,no,0,NA,NA,NA,less than 50
+45,male,non-anginal pain,135,NA,false,normal,110,no,0,NA,NA,NA,less than 50
+45,male,asymptomatic,120,225,false,normal,140,no,0,NA,NA,NA,less than 50
+45,male,asymptomatic,140,224,false,normal,144,no,0,NA,NA,NA,less than 50
+46,female,asymptomatic,130,238,false,normal,90,no,0,NA,NA,NA,less than 50
+46,male,atypical angina,140,275,false,normal,165,yes,0,NA,NA,NA,less than 50
+46,male,non-anginal pain,120,230,false,normal,150,no,0,NA,NA,NA,less than 50
+46,male,non-anginal pain,150,163,NA,normal,116,no,0,NA,NA,NA,less than 50
+46,male,asymptomatic,110,238,false,abnormality,140,yes,1,flat,NA,normal,less than 50
+46,male,asymptomatic,110,240,false,abnormality,140,no,0,NA,NA,normal,less than 50
+46,male,asymptomatic,180,280,false,abnormality,120,no,0,NA,NA,NA,less than 50
+47,female,atypical angina,140,257,false,normal,135,no,1,upsloping,NA,NA,less than 50
+47,female,non-anginal pain,130,NA,false,normal,145,no,2,flat,NA,NA,less than 50
+47,male,typical angina,110,249,false,normal,150,no,0,NA,NA,NA,less than 50
+47,male,atypical angina,160,263,false,normal,174,no,0,NA,NA,NA,less than 50
+47,male,asymptomatic,140,276,true,normal,125,yes,0,NA,NA,NA,less than 50
+48,female,atypical angina,NA,308,false,abnormality,NA,NA,2,upsloping,NA,NA,less than 50
+48,female,atypical angina,120,NA,true,abnormality,148,no,0,NA,NA,NA,less than 50
+48,female,atypical angina,120,284,false,normal,120,no,0,NA,NA,NA,less than 50
+48,female,non-anginal pain,120,195,false,normal,125,no,0,NA,NA,NA,less than 50
+48,female,asymptomatic,108,163,false,normal,175,no,2,upsloping,NA,NA,less than 50
+48,female,asymptomatic,120,254,false,abnormality,110,no,0,NA,NA,NA,less than 50
+48,female,asymptomatic,150,227,false,normal,130,yes,1,flat,NA,NA,less than 50
+48,male,atypical angina,100,NA,false,normal,100,no,0,NA,NA,NA,less than 50
+48,male,atypical angina,130,245,false,normal,160,no,0,NA,NA,NA,less than 50
+48,male,atypical angina,140,238,false,normal,118,no,0,NA,NA,NA,less than 50
+48,male,non-anginal pain,110,211,false,normal,138,no,0,NA,NA,fixed,less than 50
+49,female,atypical angina,110,NA,false,normal,160,no,0,NA,NA,NA,less than 50
+49,female,atypical angina,110,NA,false,normal,160,no,0,NA,NA,NA,less than 50
+49,female,atypical angina,124,201,false,normal,164,no,0,NA,NA,NA,less than 50
+49,female,non-anginal pain,130,207,false,abnormality,135,no,0,NA,NA,NA,less than 50
+49,male,atypical angina,100,253,false,normal,174,no,0,NA,NA,NA,less than 50
+49,male,non-anginal pain,140,187,false,normal,172,no,0,NA,NA,NA,less than 50
+49,male,asymptomatic,120,297,NA,normal,132,no,1,flat,NA,NA,less than 50
+49,male,asymptomatic,140,NA,false,normal,130,no,0,NA,NA,NA,less than 50
+50,female,atypical angina,110,202,false,normal,145,no,0,NA,NA,NA,less than 50
+50,female,asymptomatic,120,328,false,normal,110,yes,1,flat,NA,NA,less than 50
+50,male,atypical angina,120,168,false,normal,160,no,0,NA,0,NA,less than 50
+50,male,atypical angina,140,216,false,normal,170,no,0,NA,NA,normal,less than 50
+50,male,atypical angina,170,209,false,abnormality,116,no,0,NA,NA,NA,less than 50
+50,male,asymptomatic,140,129,false,normal,135,no,0,NA,NA,NA,less than 50
+50,male,asymptomatic,150,215,false,normal,140,yes,0,NA,NA,NA,less than 50
+51,female,atypical angina,160,194,false,normal,170,no,0,NA,NA,NA,less than 50
+51,female,non-anginal pain,110,190,false,normal,120,no,0,NA,NA,NA,less than 50
+51,female,non-anginal pain,130,220,false,normal,160,yes,2,upsloping,NA,NA,less than 50
+51,female,non-anginal pain,150,200,false,normal,120,no,0.5,upsloping,NA,NA,less than 50
+51,male,atypical angina,125,188,false,normal,145,no,0,NA,NA,NA,less than 50
+51,male,atypical angina,130,224,false,normal,150,no,0,NA,NA,NA,less than 50
+51,male,asymptomatic,130,179,false,normal,100,no,0,NA,NA,reversible,less than 50
+52,female,atypical angina,120,210,false,normal,148,no,0,NA,NA,NA,less than 50
+52,female,atypical angina,140,NA,false,normal,140,no,0,NA,NA,NA,less than 50
+52,female,non-anginal pain,125,272,false,normal,139,no,0,NA,NA,NA,less than 50
+52,female,asymptomatic,130,180,false,normal,140,yes,1.5,flat,NA,NA,less than 50
+52,male,atypical angina,120,284,false,normal,118,no,0,NA,NA,NA,less than 50
+52,male,atypical angina,140,100,false,normal,138,yes,0,NA,NA,NA,less than 50
+52,male,atypical angina,160,196,false,normal,165,no,0,NA,NA,NA,less than 50
+52,male,non-anginal pain,140,259,false,abnormality,170,no,0,NA,NA,NA,less than 50
+53,female,atypical angina,113,468,NA,normal,127,no,0,NA,NA,NA,less than 50
+53,female,atypical angina,140,216,false,normal,142,yes,2,flat,NA,NA,less than 50
+53,female,non-anginal pain,120,274,false,normal,130,no,0,NA,NA,NA,less than 50
+53,male,atypical angina,120,NA,false,normal,132,no,0,NA,NA,NA,less than 50
+53,male,atypical angina,140,320,false,normal,162,no,0,NA,NA,NA,less than 50
+53,male,non-anginal pain,120,195,false,normal,140,no,0,NA,NA,NA,less than 50
+53,male,asymptomatic,124,260,false,abnormality,112,yes,3,flat,NA,NA,less than 50
+53,male,asymptomatic,130,182,false,normal,148,no,0,NA,NA,NA,less than 50
+53,male,asymptomatic,140,243,false,normal,155,no,0,NA,NA,NA,less than 50
+54,female,atypical angina,120,221,false,normal,138,no,1,upsloping,NA,NA,less than 50
+54,female,atypical angina,120,230,true,normal,140,no,0,NA,NA,NA,less than 50
+54,female,atypical angina,120,273,false,normal,150,no,1.5,flat,NA,NA,less than 50
+54,female,atypical angina,130,253,false,abnormality,155,no,0,NA,NA,NA,less than 50
+54,female,atypical angina,140,309,NA,abnormality,140,no,0,NA,NA,NA,less than 50
+54,female,atypical angina,150,230,false,normal,130,no,0,NA,NA,NA,less than 50
+54,female,atypical angina,160,312,false,normal,130,no,0,NA,NA,NA,less than 50
+54,male,typical angina,120,171,false,normal,137,no,2,upsloping,NA,NA,less than 50
+54,male,atypical angina,110,208,false,normal,142,no,0,NA,NA,NA,less than 50
+54,male,atypical angina,120,238,false,normal,154,no,0,NA,NA,NA,less than 50
+54,male,atypical angina,120,246,false,normal,110,no,0,NA,NA,NA,less than 50
+54,male,atypical angina,160,195,false,abnormality,130,no,1,upsloping,NA,NA,less than 50
+54,male,atypical angina,160,305,false,normal,175,no,0,NA,NA,NA,less than 50
+54,male,non-anginal pain,120,217,false,normal,137,no,0,NA,NA,NA,less than 50
+54,male,non-anginal pain,150,NA,false,normal,122,no,0,NA,NA,NA,less than 50
+54,male,asymptomatic,150,365,false,abnormality,134,no,1,upsloping,NA,NA,less than 50
+55,female,atypical angina,110,344,false,abnormality,160,no,0,NA,NA,NA,less than 50
+55,female,atypical angina,122,320,false,normal,155,no,0,NA,NA,NA,less than 50
+55,female,atypical angina,130,394,false,hypertrophy,150,no,0,NA,NA,NA,less than 50
+55,male,atypical angina,120,256,true,normal,137,no,0,NA,NA,reversible,less than 50
+55,male,atypical angina,140,196,false,normal,150,no,0,NA,NA,reversible,less than 50
+55,male,atypical angina,145,326,false,normal,155,no,0,NA,NA,NA,less than 50
+55,male,non-anginal pain,110,277,false,normal,160,no,0,NA,NA,NA,less than 50
+55,male,non-anginal pain,120,220,false,hypertrophy,134,no,0,NA,NA,NA,less than 50
+55,male,asymptomatic,120,270,false,normal,140,no,0,NA,NA,NA,less than 50
+55,male,asymptomatic,140,229,false,normal,110,yes,0.5,flat,NA,NA,less than 50
+56,female,non-anginal pain,130,219,NA,abnormality,164,no,0,NA,NA,reversible,less than 50
+56,male,atypical angina,130,184,false,normal,100,no,0,NA,NA,NA,less than 50
+56,male,non-anginal pain,130,NA,false,normal,114,no,0,NA,NA,NA,less than 50
+56,male,non-anginal pain,130,276,false,normal,128,yes,1,upsloping,NA,fixed,less than 50
+56,male,asymptomatic,120,85,false,normal,140,no,0,NA,NA,NA,less than 50
+57,female,typical angina,130,308,false,normal,98,no,1,flat,NA,NA,less than 50
+57,female,asymptomatic,180,347,false,abnormality,126,yes,0.8,flat,NA,NA,less than 50
+57,male,atypical angina,140,260,true,normal,140,no,0,NA,NA,fixed,less than 50
+58,male,atypical angina,130,230,false,normal,150,no,0,NA,NA,NA,less than 50
+58,male,atypical angina,130,251,false,normal,110,no,0,NA,NA,NA,less than 50
+58,male,non-anginal pain,140,179,false,normal,160,no,0,NA,NA,NA,less than 50
+58,male,asymptomatic,135,222,false,normal,100,no,0,NA,NA,NA,less than 50
+59,female,atypical angina,130,188,false,normal,124,no,1,flat,NA,NA,less than 50
+59,male,atypical angina,140,287,false,normal,150,no,0,NA,NA,NA,less than 50
+59,male,non-anginal pain,130,318,false,normal,120,yes,1,flat,NA,normal,less than 50
+59,male,non-anginal pain,180,213,false,normal,100,no,0,NA,NA,NA,less than 50
+59,male,asymptomatic,140,NA,false,normal,140,no,0,NA,0,NA,less than 50
+60,male,non-anginal pain,120,246,false,hypertrophy,135,no,0,NA,NA,NA,less than 50
+61,female,asymptomatic,130,294,false,abnormality,120,yes,1,flat,NA,NA,less than 50
+61,male,asymptomatic,125,292,false,abnormality,115,yes,0,NA,NA,NA,less than 50
+62,female,typical angina,160,193,false,normal,116,no,0,NA,NA,NA,less than 50
+62,male,atypical angina,140,271,false,normal,152,no,1,upsloping,NA,NA,less than 50
+31,male,asymptomatic,120,270,false,normal,153,yes,1.5,flat,NA,NA,more than 50
+33,female,asymptomatic,100,246,false,normal,150,yes,1,flat,NA,NA,more than 50
+34,male,typical angina,140,156,false,normal,180,no,0,NA,NA,NA,more than 50
+35,male,atypical angina,110,257,false,normal,140,no,0,NA,NA,NA,more than 50
+36,male,atypical angina,120,267,false,normal,160,no,3,flat,NA,NA,more than 50
+37,male,asymptomatic,140,207,false,normal,130,yes,1.5,flat,NA,NA,more than 50
+38,male,asymptomatic,110,196,false,normal,166,no,0,NA,NA,NA,more than 50
+38,male,asymptomatic,120,282,false,normal,170,no,0,NA,NA,NA,more than 50
+38,male,asymptomatic,92,117,false,normal,134,yes,2.5,flat,NA,NA,more than 50
+40,male,asymptomatic,120,466,NA,normal,152,yes,1,flat,NA,fixed,more than 50
+41,male,asymptomatic,110,289,false,normal,170,no,0,NA,NA,fixed,more than 50
+41,male,asymptomatic,120,237,NA,normal,138,yes,1,flat,NA,NA,more than 50
+43,male,asymptomatic,150,247,false,normal,130,yes,2,flat,NA,NA,more than 50
+46,male,asymptomatic,110,202,false,normal,150,yes,0,NA,NA,NA,more than 50
+46,male,asymptomatic,118,186,false,normal,124,no,0,NA,NA,reversible,more than 50
+46,male,asymptomatic,120,277,false,normal,125,yes,1,flat,NA,NA,more than 50
+47,male,non-anginal pain,140,193,false,normal,145,yes,1,flat,NA,NA,more than 50
+47,male,asymptomatic,150,226,false,normal,98,yes,1.5,flat,0,reversible,more than 50
+48,male,asymptomatic,106,263,true,normal,110,no,0,NA,NA,NA,more than 50
+48,male,asymptomatic,120,260,false,normal,115,no,2,flat,NA,NA,more than 50
+48,male,asymptomatic,160,268,false,normal,103,yes,1,flat,NA,NA,more than 50
+49,female,non-anginal pain,160,180,false,normal,156,no,1,flat,NA,NA,more than 50
+49,male,non-anginal pain,115,265,false,normal,175,no,0,NA,NA,NA,more than 50
+49,male,asymptomatic,130,206,false,normal,170,no,0,NA,NA,NA,more than 50
+50,female,non-anginal pain,140,288,false,normal,140,yes,0,NA,NA,reversible,more than 50
+50,male,asymptomatic,145,264,false,normal,150,no,0,NA,NA,NA,more than 50
+51,female,asymptomatic,160,303,false,normal,150,yes,1,flat,NA,NA,more than 50
+52,male,asymptomatic,130,225,false,normal,120,yes,2,flat,NA,NA,more than 50
+54,male,asymptomatic,125,216,false,normal,140,no,0,NA,NA,NA,more than 50
+54,male,asymptomatic,125,224,false,normal,122,no,2,flat,NA,NA,more than 50
+55,male,asymptomatic,140,201,false,normal,130,yes,3,flat,NA,NA,more than 50
+57,male,atypical angina,140,265,false,abnormality,145,yes,1,flat,NA,NA,more than 50
+58,male,non-anginal pain,130,213,false,abnormality,140,no,0,NA,NA,fixed,more than 50
+59,female,asymptomatic,130,338,true,abnormality,130,yes,1.5,flat,NA,NA,more than 50
+60,male,asymptomatic,100,248,false,normal,125,no,1,flat,NA,NA,more than 50
+63,male,asymptomatic,150,223,false,normal,115,no,0,NA,NA,NA,more than 50
+65,male,asymptomatic,140,306,true,normal,87,yes,1.5,flat,NA,NA,more than 50
+32,male,asymptomatic,118,529,false,normal,130,no,0,NA,NA,NA,more than 50
+38,male,asymptomatic,110,NA,false,normal,150,yes,1,flat,NA,NA,more than 50
+39,male,asymptomatic,110,280,false,normal,150,no,0,NA,NA,fixed,more than 50
+40,female,asymptomatic,150,392,false,normal,130,no,2,flat,NA,fixed,more than 50
+43,male,typical angina,120,291,false,abnormality,155,no,0,NA,NA,NA,more than 50
+45,male,asymptomatic,130,219,false,abnormality,130,yes,1,flat,NA,NA,more than 50
+46,male,asymptomatic,120,231,false,normal,115,yes,0,NA,NA,NA,more than 50
+46,male,asymptomatic,130,222,false,normal,112,no,0,NA,NA,NA,more than 50
+48,male,asymptomatic,122,275,true,abnormality,150,yes,2,downsloping,NA,NA,more than 50
+48,male,asymptomatic,160,193,false,normal,102,yes,3,flat,NA,NA,more than 50
+48,male,asymptomatic,160,329,false,normal,92,yes,1.5,flat,NA,NA,more than 50
+48,male,asymptomatic,160,355,false,normal,99,yes,2,flat,NA,NA,more than 50
+50,male,asymptomatic,130,233,false,normal,121,yes,2,flat,NA,reversible,more than 50
+52,male,asymptomatic,120,182,false,normal,150,no,0,NA,NA,NA,more than 50
+52,male,asymptomatic,170,NA,false,normal,126,yes,1.5,flat,NA,NA,more than 50
+53,male,asymptomatic,120,246,false,normal,116,yes,0,NA,NA,NA,more than 50
+54,male,non-anginal pain,120,237,false,normal,150,yes,1.5,NA,NA,reversible,more than 50
+54,male,asymptomatic,130,242,false,normal,91,yes,1,flat,NA,NA,more than 50
+54,male,asymptomatic,130,603,true,normal,125,yes,1,flat,NA,NA,more than 50
+54,male,asymptomatic,140,NA,false,normal,118,yes,0,NA,NA,NA,more than 50
+54,male,asymptomatic,200,198,false,normal,142,yes,2,flat,NA,NA,more than 50
+55,male,asymptomatic,140,268,false,normal,128,yes,1.5,flat,NA,NA,more than 50
+56,male,asymptomatic,150,213,true,normal,125,yes,1,flat,NA,NA,more than 50
+57,male,asymptomatic,150,255,false,normal,92,yes,3,flat,NA,NA,more than 50
+58,male,non-anginal pain,160,211,true,abnormality,92,no,0,NA,NA,NA,more than 50
+58,male,asymptomatic,130,263,false,normal,140,yes,2,flat,NA,NA,more than 50
+41,male,asymptomatic,130,172,false,abnormality,130,no,2,flat,NA,NA,more than 50
+43,male,asymptomatic,120,175,false,normal,120,yes,1,flat,NA,reversible,more than 50
+44,male,atypical angina,150,288,false,normal,150,yes,3,flat,NA,NA,more than 50
+44,male,asymptomatic,130,290,false,normal,100,yes,2,flat,NA,NA,more than 50
+46,male,typical angina,140,272,true,normal,175,no,2,flat,NA,NA,more than 50
+47,female,non-anginal pain,135,248,true,normal,170,no,0,NA,NA,NA,more than 50
+48,female,asymptomatic,138,214,false,normal,108,yes,1.5,flat,NA,NA,more than 50
+49,male,asymptomatic,130,341,false,normal,120,yes,1,flat,NA,NA,more than 50
+49,male,asymptomatic,140,234,false,normal,140,yes,1,flat,NA,NA,more than 50
+51,male,non-anginal pain,135,160,false,normal,150,no,2,flat,NA,NA,more than 50
+52,male,asymptomatic,112,342,false,abnormality,96,yes,1,flat,NA,NA,more than 50
+52,male,asymptomatic,130,298,false,normal,110,yes,1,flat,NA,NA,more than 50
+52,male,asymptomatic,140,404,false,normal,124,yes,2,flat,NA,NA,more than 50
+52,male,asymptomatic,160,246,false,abnormality,82,yes,4,flat,NA,NA,more than 50
+53,male,non-anginal pain,145,518,false,normal,130,no,0,NA,NA,NA,more than 50
+53,male,asymptomatic,180,285,false,abnormality,120,yes,1.5,flat,NA,NA,more than 50
+54,male,asymptomatic,140,216,false,normal,105,no,1.5,flat,NA,NA,more than 50
+55,male,typical angina,140,295,false,NA,136,no,0,NA,NA,NA,more than 50
+55,male,atypical angina,160,292,true,normal,143,yes,2,flat,NA,NA,more than 50
+55,male,asymptomatic,145,248,false,normal,96,yes,2,flat,NA,NA,more than 50
+56,female,atypical angina,120,279,false,normal,150,no,1,flat,NA,NA,more than 50
+56,male,asymptomatic,150,230,false,abnormality,124,yes,1.5,flat,NA,NA,more than 50
+56,male,asymptomatic,170,388,false,abnormality,122,yes,2,flat,NA,NA,more than 50
+58,male,atypical angina,136,164,false,abnormality,99,yes,2,flat,NA,NA,more than 50
+59,male,asymptomatic,130,NA,false,normal,125,no,0,NA,NA,NA,more than 50
+59,male,asymptomatic,140,264,true,hypertrophy,119,yes,0,NA,NA,NA,more than 50
+65,male,asymptomatic,170,263,true,normal,112,yes,2,flat,NA,NA,more than 50
+66,male,asymptomatic,140,NA,false,normal,94,yes,1,flat,NA,NA,more than 50
+41,male,asymptomatic,120,336,false,normal,118,yes,3,flat,NA,NA,more than 50
+43,male,asymptomatic,140,288,false,normal,135,yes,2,flat,NA,NA,more than 50
+44,male,asymptomatic,135,491,false,normal,135,no,0,NA,NA,NA,more than 50
+47,female,asymptomatic,120,205,false,normal,98,yes,2,flat,NA,fixed,more than 50
+47,male,asymptomatic,160,291,false,abnormality,158,yes,3,flat,NA,NA,more than 50
+49,male,asymptomatic,128,212,false,normal,96,yes,0,NA,NA,NA,more than 50
+49,male,asymptomatic,150,222,false,normal,122,no,2,flat,NA,NA,more than 50
+50,male,asymptomatic,140,231,false,abnormality,140,yes,5,flat,NA,NA,more than 50
+50,male,asymptomatic,140,341,false,abnormality,125,yes,2.5,flat,NA,NA,more than 50
+52,male,asymptomatic,140,266,false,normal,134,yes,2,flat,NA,NA,more than 50
+52,male,asymptomatic,160,331,false,normal,94,yes,2.5,NA,NA,NA,more than 50
+54,female,non-anginal pain,130,294,false,abnormality,100,yes,0,flat,NA,NA,more than 50
+56,male,asymptomatic,155,342,true,normal,150,yes,3,flat,NA,NA,more than 50
+58,female,atypical angina,180,393,false,normal,110,yes,1,flat,NA,reversible,more than 50
+65,male,asymptomatic,130,275,false,abnormality,115,yes,1,flat,NA,NA,more than 50
+28,male,atypical angina,130,132,false,hypertrophy,185,no,0,NA,NA,NA,less than 50
